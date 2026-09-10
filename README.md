@@ -1,4 +1,6 @@
+
 # Folder Organizer (Органайзер папок)
+<img width="1041" height="647" alt="image" src="https://github.com/user-attachments/assets/edd85077-a252-4542-9715-eb35134be289" />
 
 Невеликий графічний інструмент для сортування файлів у вибраній папці за типами файлів.
 
